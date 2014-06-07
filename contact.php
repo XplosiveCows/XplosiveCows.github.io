@@ -27,6 +27,4 @@ else { ?>
 		alert('Message failed. Please, send an email to xplosivecows@gmail.com');
 		window.location = 'index.html';
 	</script>
-<?php
-}
 ?>
